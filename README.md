@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Certification
+### 인증(CERTIFICATIONS)
+<img src="https://user-images.githubusercontent.com/6668548/146668681-8052afce-3e98-40aa-84e2-9882930a822f.png" width="100" height="100" />
 
-name | exam date | study period | Reason | Evidence | due date
---- | --- | --- | --- | --- | ---
+#### AWS Certified Solutions Architect – Associate
+* Exam Date: 17 Dec. 2021 (Expires on 17 Dec. 2024)
+* Verify: [credly](https://www.credly.com/badges/e3a395f2-a3ae-47ba-ac0f-6483a0344d60/public_url)
+* Study Period: 13 days (05 ~ 16 Dec. 2021)
+* Reason: To understand what is amazon web service
+* Postscript: `To Be Continued`
