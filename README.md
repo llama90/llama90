@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Certification
+
+name | exam date | study period | Reason | Evidence | due date
+--- | --- | --- | --- | --- | ---
