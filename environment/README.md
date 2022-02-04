@@ -25,3 +25,20 @@ sudo apt-get install ssh # SSH 연결을 위함
 #### Docker 설치
 * [Ubuntu 20.04 LTS ) Docker 설치하기](https://shanepark.tistory.com/237)
 * [Linux, sudo 없이 명령어 실행하기 (예:docker)](https://shanepark.tistory.com/250)
+
+#### Kubernetes 설치
+* [kubespray](https://github.com/kubernetes-sigs/kubespray)
+  * [Vagrant](https://github.com/kubernetes-sigs/kubespray#vagrant)
+    * [Ancible, Vagrant, Kubespray를 활용해서 온프레미스 쿠버네티스 구축하기!](https://velog.io/@moey920/Ancible-Vagrant-Kubespray%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+  > Kubernetes 학습 관련해서 실습에 필요할 수도 있어서 설치 시도
+  ```shell
+  vagrant@k8s-1:~$ kubectl get node
+  NAME    STATUS   ROLES                  AGE   VERSION
+  k8s-1   Ready    control-plane,master   87m   v1.23.3
+  k8s-2   Ready    control-plane,master   86m   v1.23.3
+  k8s-3   Ready    <none>                 85m   v1.23.3
+  ```
+* 참고할 자료
+  * [Kubernetes Cluster using Vagrant and Ansible with Containerd (in 3 minutes)](https://www.itwonderlab.com/en/ansible-kubernetes-vagrant-tutorial/)
+  * [Installing the Kubernetes Dashboard and managing the Cluster using kubectl](https://www.itwonderlab.com/en/installating-kubernetes-dashboard/)
+
