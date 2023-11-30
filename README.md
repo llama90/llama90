@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Work Experience
 
-* **Data Platform** at `Zigbang` (Jul. 2021 ~ ) 
+* **Data Platform** at `Zigbang` (Jul. 2021 ~ Nov. 2023, about 2 years 4 months) 
 * **Catalog Platform** at `S-Core`, (Aug. 2018 ~ Jul. 2021, about 3 years)
 * **Network Monitoring Solution** at `Atto Research` (Feb. 2017 ~ Aug. 2018, about 1.5 years)
 * **Embedded Software** at `Opticis` (May. 2015 ~ Feb. 2017, about 1.5 years)
