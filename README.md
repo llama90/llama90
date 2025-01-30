@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ### CERTIFICATIONS
 
-- `AWS Certified Solutions Architect – Associate`, [Verify](https://www.credly.com/badges/b493f1db-dd3b-47b6-8fa6-76f67c425db3), (Expires on Dec. 15 2027)
-- `AWS Certified Solutions Architect – Professional`, [Verify](https://www.credly.com/badges/e800c4b8-b5f7-4a35-9373-aae58ffb2763), (Expires on Dec. 15 2027)
-- `AWS Certified DevOps Engineer – Professional`, [Verify](https://www.credly.com/badges/670eaa9e-d72e-4a2d-9560-ac671dc808b9), (Expires on Jan. 30 2028)
+- `AWS Certified Solutions Architect – Associate`, [Verify](https://www.credly.com/badges/b493f1db-dd3b-47b6-8fa6-76f67c425db3), (Expires on Dec. 15, 2027)
+- `AWS Certified Solutions Architect – Professional`, [Verify](https://www.credly.com/badges/e800c4b8-b5f7-4a35-9373-aae58ffb2763), (Expires on Dec. 15, 2027)
+- `AWS Certified DevOps Engineer – Professional`, [Verify](https://www.credly.com/badges/670eaa9e-d72e-4a2d-9560-ac671dc808b9), (Expires on Jan. 30, 2028)
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" />
