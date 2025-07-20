@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - `AWS Certified Solutions Architect – Professional`, [Verify](https://www.credly.com/badges/e800c4b8-b5f7-4a35-9373-aae58ffb2763), (Expires on Dec. 15, 2027)
 - `AWS Certified DevOps Engineer – Professional`, [Verify](https://www.credly.com/badges/670eaa9e-d72e-4a2d-9560-ac671dc808b9), (Expires on Jan. 30, 2028)
 - `AWS Certified Security – Specialty`, [Verify](https://www.credly.com/badges/f5c7694d-827e-4319-824b-8ec28db23460), (Expires on Feb. 08, 2028)
+- `CKAD: Certified Kubernetes Application Developer`, [Verify](https://www.credly.com/badges/b64c734d-d55f-4588-a906-247f4d838b9f), (Expires on July 20, 2027
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" />
@@ -45,4 +46,5 @@ Here are some ideas to get you started:
     <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" height="100" />
     <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" height="100" />
     <img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="100" height="100" />
 </div>
